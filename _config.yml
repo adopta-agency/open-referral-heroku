@@ -1,5 +1,5 @@
-title:        Open Referral AWS
-url:          http://open.referral.aws.adopta.agency/
+title:        Open Referral Heroku
+url:          http://open.referral.heroku.adopta.agency/
 
 version:      1.1.1
 
@@ -25,12 +25,12 @@ put_color: FF0080;
 delete_color: FF9900;
 
 github_org: adopta-agency
-github_repo: open-referral-aws
+github_repo: open-referral-heroku
 resource: human
 oauthio: qUDL4eZqKPFb41SwuWIYIwLR6jI
 
 # Masthead title
-masthead_link: http://open.referral.aws.adopta.agency/
+masthead_link: http://open.referral.heroku.adopta.agency/
 masthead_font_size: 75
 masthead_title: '{"Open Referral AWS"}'
 
