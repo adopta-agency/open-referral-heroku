@@ -1,2 +1,3 @@
-# open-referral-herokua
-This is the working repo for Heroku project.
+## Open Referral AWS
+
+URL: http://open.referral.aws.adopta.agency
