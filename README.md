@@ -1,3 +1,3 @@
-## Open Referral AWS
+## Open Referral Heroku
 
-URL: http://open.referral.aws.adopta.agency
+URL: http://open.referral.heroku.adopta.agency
